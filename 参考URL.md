@@ -12,3 +12,7 @@
 # プロセッサについて
 [https://homes.cs.washington.edu/~lazowska/qsp/Images/Chap_11.pdf](https://homes.cs.washington.edu/~lazowska/qsp/Images/Chap_11.pdf)
 
+
+# BSC(バランススコアカード)  
+[https://www.youtube.com/watch?v=fsJ6KWDB3m8](https://www.youtube.com/watch?v=fsJ6KWDB3m8)
+
