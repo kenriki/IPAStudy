@@ -1,0 +1,8 @@
+ISO 9241-210
+国際標準化機構が制定するインタラクティブシステムの人間中心設計に関する規格である。
+
+規格番号は9241-210、名称は「Ergonomics of human-system interaction -- Part 210: Human-centred design for interactive systems」である。ISO 9241シリーズ "Ergonomics of human-system interaction" の1つ。本規格はコンピューターを利用したインタラクティブシステムのライフサイクルにおける、人間中心設計の原則および活動のための要求事項と推奨事項について規定している。また、この規格ではユーザーエクスペリエンスも定義されている。
+
+対応する日本産業規格は「JIS Z 8530 人間工学－人とシステムとのインタラクション－インタラクティブシステムの人間中心設計」である。
+
+https://www.jstage.jst.go.jp/article/jje/49/Supplement/49_S20/_pdf
